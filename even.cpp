@@ -2,6 +2,7 @@
 using namespace std;
 
 int main() {
+    //Added feature2
     int n;
     cout << "Enter an integer: ";
     cin >> n;
