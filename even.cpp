@@ -2,7 +2,10 @@
 using namespace std;
 
 int main() {
+
     //Added feature2
+
+    //Added feature1
     int n;
     cout << "Enter an integer: ";
     cin >> n;
